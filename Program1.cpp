@@ -1,0 +1,11 @@
+// wap to calculate size of Default datatypes
+#include <iostream>
+using namespace std;
+int main(){
+    cout<<sizeof(int)<<endl;
+    cout<<sizeof(float)<<endl;
+    cout<<sizeof(double)<<endl;
+    cout<<sizeof(short)<<endl;
+
+    return 0;
+}
